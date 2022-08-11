@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(12, 0, 61);
+    color: rgb(239, 243, 246);
+}
+
+html{
+    font-size: 60px;
+    font-family: 'Rubik', sans-serif , rgb(20, 195, 222) 900;
+    text-align: center;
+
+}
+
+.model2{
+    font-size: 60px;
+    font-family: 'Rubik Marker Hatch', cursive , white;
+    text-align: center;
+
+}
+
+.model{
+    font-size: 60px;
+    font-family: "Lucida Console", "Courier New", monospace , rgb(242, 106, 106);
+    text-align: center;
+}
